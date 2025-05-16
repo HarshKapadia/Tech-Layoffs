@@ -1,7 +1,7 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
 CrowdStrike,SF Bay Area,500.0,5/7/2025,5%,Security,https://www.wsj.com/business/crowdstrike-to-cut-5-of-workforce-8eda42ed?st=dVSJCS&reflink=desktopwebshare_permalink,Post-IPO,$1200,United States,5/7/2025
 GenWise,"New Delhi,Non-U.S.",15.0,5/5/2025,20%,Other,https://entrackr.com/exclusive/exclusive-z47-backed-genwise-lays-off-20-of-workforce-9036952,Seed,$3,India,5/5/2025
-Deep Instinct,"Tel Aviv,Non-U.S.",20.0,5/4/2025,10%,Security,https://www.calcalistech.com/ctechnews/article/bjfqkgbglx,Unknown,$322,Israel,5/5/2025
+Deep Instinct,"Tel Aviv,Non-U.S.",20.0,5/4/2025,10%,Security,https://www.calcalistech.com/ctechnews/article/bjfqkgbglx,Private Equity,$322,Israel,5/5/2025
 SambaNova,SF Bay Area,77.0,4/25/2025,15%,AI,https://www.eetimes.com/sambanova-lays-off-15-of-workforce-to-refocus-on-inference/,Series D,$1100,United States,5/3/2025
 Intel,Sacramento,22000.0,4/23/2025,20%,Hardware,https://www.bloomberg.com/news/articles/2025-04-23/intel-to-announce-plans-this-week-to-cut-more-than-20-of-staff?srnd=homepage-americas,Post-IPO,$12,United States,4/23/2025
 Turo,SF Bay Area,150.0,4/16/2025,17%,Transportation,https://www.bloomberg.com/news/articles/2025-04-16/car-rental-startup-turo-cuts-15-of-workers-after-icing-ipo,Series E,$467,United States,4/16/2025
@@ -433,7 +433,7 @@ Reddit,SF Bay Area,90.0,6/6/2023,5%,Consumer,https://www.wsj.com/articles/reddit
 Linktree,"Melbourne,Non-U.S.",60.0,6/6/2023,27%,Consumer,https://www.startupdaily.net/topic/business/link-in-bio-startup-linktree-slashes-local-jobs-again-shedding-27-of-anz-workforce/,Unknown,$165,Australia,6/6/2023
 Dragos,Baltimore,50.0,6/6/2023,9%,Security,https://www.dragos.com/blog/industry-news/dragos-ceos-email-to-employees-on-layoff/,Series D,$364,United States,6/6/2023
 Spotify,"Stockholm,Non-U.S.",200.0,6/5/2023,2%,Media,https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html,Post-IPO,$2100,Sweden,6/5/2023
-ZoomInfo,Vancouver,120.0,6/2/2023,3%,Sales,https://www.bizjournals.com/portland/inno/stories/news/2023/06/02/zoominfo-layoffs.html,Post-IPO,$7,United States,6/2/2023
+ZoomInfo,"Vancouver,Non-U.S.",120.0,6/2/2023,3%,Sales,https://www.bizjournals.com/portland/inno/stories/news/2023/06/02/zoominfo-layoffs.html,Post-IPO,$7,United States,6/2/2023
 Outbrain,New York City,90.0,6/1/2023,10%,Marketing,https://www.calcalistech.com/ctechnews/article/syxin3hl3,Post-IPO,$394,United States,6/2/2023
 Zendesk,SF Bay Area,320.0,5/31/2023,8%,Support,https://www.zendesk.com/newsroom/articles/zendesk-workforce-reduction/,Acquired,$85,United States,6/1/2023
 ZipRecruiter,Los Angeles,270.0,5/31/2023,20%,Recruiting,https://www.sec.gov/ix?doc=/Archives/edgar/data/1617553/000161755323000028/zip-20230531.htm,Post-IPO,$769,United States,5/31/2023
@@ -735,7 +735,7 @@ Everlane,SF Bay Area,30.0,1/5/2023,17%,Retail,https://www.theinformation.com/art
 Pecan AI,"Tel Aviv,Non-U.S.",30.0,1/5/2023,25%,Data,https://www.calcalistech.com/ctechnews/article/hkrgrqvqo,Series C,$116,Israel,1/9/2023
 Personetics,New York City,30.0,1/5/2023,8%,Support,https://www.calcalistech.com/ctechnews/article/sjlizvvcs,Private Equity,$178,United States,1/6/2023
 Twine Solutions ,"Tel Aviv,Non-U.S.",30.0,1/5/2023,33%,Hardware,https://www.calcalistech.com/ctechnews/article/bkniefe5o,Unknown,$50,Israel,1/9/2023
-UpScalio,Gurugram,25.0,1/5/2023,15%,Retail,https://www.techinasia.com/indiabased-rollup-firm-upscalio-lays-15-staff,Series B,$62,India,1/6/2023
+UpScalio,"Gurugram,Non-U.S.",25.0,1/5/2023,15%,Retail,https://www.techinasia.com/indiabased-rollup-firm-upscalio-lays-15-staff,Series B,$62,India,1/6/2023
 Amazon,Seattle,8000.0,1/4/2023,2%,Retail,https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304,Post-IPO,$108,United States,1/5/2023
 Salesforce,SF Bay Area,8000.0,1/4/2023,10%,Sales,https://www.nytimes.com/2023/01/04/business/salesforce-layoffs.html,Post-IPO,$65,United States,1/4/2023
 Astronomer,Cincinnati,76.0,1/4/2023,20%,Data,https://www.astronomer.io/blog/astronomer-update/,Series C,$282,United States,1/6/2023
@@ -975,7 +975,7 @@ Rubius,Boston,160.0,9/13/2022,75%,Healthcare,https://www.fiercebiotech.com/biote
 Checkout.com,"London,Non-U.S.",100.0,9/13/2022,5%,Finance,https://www.bloomberg.com/news/articles/2022-09-13/checkout-com-will-eliminate-about-5-of-employees-in-latest-cuts,Series D,$1800,United Kingdom,9/14/2022
 Taboola,New York City,100.0,9/13/2022,6%,Marketing,https://www.calcalistech.com/ctechnews/article/hybe11icxs,Post-IPO,$445,United States,9/13/2022
 Patreon,SF Bay Area,80.0,9/13/2022,17%,Media,https://www.theinformation.com/briefings/patreon-lays-off-17-of-staff,Series F,$413,United States,9/13/2022
-Compete,Tel Aviv,11.0,9/12/2022,28%,HR,https://www.calcalistech.com/ctechnews/article/rkzqei2gi,Series A,$17,Israel,9/13/2022
+Compete,"Tel Aviv,Non-U.S.",11.0,9/12/2022,28%,HR,https://www.calcalistech.com/ctechnews/article/rkzqei2gi,Series A,$17,Israel,9/13/2022
 Pomelo Fashion,"Bangkok,Non-U.S.",55.0,9/8/2022,8%,Retail,https://www.bloomberg.com/news/articles/2022-09-08/fashion-e-commerce-startup-pomelo-cuts-jobs-after-market-slows,Unknown,$120,Thailand,9/10/2022
 Simple Feast,"Copenhagen,Non-U.S.",150.0,9/7/2022,100%,Food,https://nyheder.tv2.dk/samfund/2022-09-07-firma-bag-plantebaserede-maltidskasser-er-gaet-konkurs,Unknown,$173,Denmark,9/13/2022
 Intercom,SF Bay Area,49.0,9/7/2022,5%,Support,https://www.businesspost.ie/tech/irish-tech-unicorn-intercom-to-cut-49-jobs-across-hr-marketing/,Series D,$240,United States,9/8/2022
@@ -1010,7 +1010,7 @@ Wayfair,Boston,870.0,8/19/2022,5%,Retail,https://www.bostonglobe.com/2022/08/19/
 New Relic,SF Bay Area,110.0,8/18/2022,5%,Infrastructure,https://www.marketwatch.com/story/new-relic-commits-to-restructuring-plan-including-layoffs-271660823014,Post-IPO,$214,United States,8/18/2022
 Wheel,Austin,35.0,8/18/2022,17%,Healthcare,https://www.businessinsider.com/wheel-laid-off-17-percent-35-employees-digital-health-layoffs-2022-8,Series C,$215,United States,9/1/2022
 Malwarebytes,SF Bay Area,125.0,8/17/2022,14%,Security,https://techcrunch.com/2022/08/17/malwareybytes-layoffs/,Series B,$80,United States,8/17/2022
-AlayaCare,Montreal,80.0,8/16/2022,14%,Healthcare,https://betakit.com/alayacare-lays-off-14-percent-of-employees-slows-ma-plans/,Series D,$293,Canada,8/17/2022
+AlayaCare,"Montreal,Non-U.S.",80.0,8/16/2022,14%,Healthcare,https://betakit.com/alayacare-lays-off-14-percent-of-employees-slows-ma-plans/,Series D,$293,Canada,8/17/2022
 Pliops,"Tel Aviv,Non-U.S.",12.0,8/16/2022,9%,Data,https://www.calcalistech.com/ctechnews/article/hkch00dya5,Series D,$205,Israel,8/18/2022
 Woven,Indianapolis,5.0,8/16/2022,15%,HR,Internal memo,Series A,$11,United States,8/17/2022
 Sema4,Stamford,250.0,8/15/2022,13%,Healthcare,https://ir.sema4.com/news-releases/news-release-details/sema4-announces-continued-restructuring-business-highlights-and,Post-IPO,$791,United States,8/16/2022
@@ -1219,7 +1219,7 @@ Stashaway,"Singapore,Non-U.S.",31.0,6/9/2022,14%,Finance,https://www.techinasia.
 Preply,Boston,26.0,6/9/2022,5%,Education,Internal memo,Series C,$100,United States,6/10/2022
 Sonder,SF Bay Area,250.0,6/8/2022,21%,Travel,Internal memo,Post-IPO,$839,United States,6/9/2022
 Truepill,SF Bay Area,150.0,6/8/2022,15%,Healthcare,https://medium.com/truepill-insights/a-message-from-truepill-ceo-sid-viswanathan-9973660e2d8,Series D,$255,United States,6/10/2022
-iPrice Group,Kuala Lumpur,50.0,6/8/2022,20%,Retail,https://www.techinasia.com/malaysias-iprice-group-sacks-20-employees,Unknown,$26,Malaysia,6/30/2022
+iPrice Group,"Kuala Lumpur,Non-U.S.",50.0,6/8/2022,20%,Retail,https://www.techinasia.com/malaysias-iprice-group-sacks-20-employees,Unknown,$26,Malaysia,6/30/2022
 Cazoo,"London,Non-U.S.",750.0,6/7/2022,15%,Transportation,https://news.sky.com/story/car-retailer-cazoo-to-cut-750-jobs-after-inflation-hit-12629350,Post-IPO,$2000,United Kingdom,6/7/2022
 Cazoo,"London,Non-U.S.",750.0,6/7/2022,15%,Transportation,https://sifted.eu/articles/cazoo-layoffs-european-union/,Post-IPO,$2000,United Kingdom,9/9/2022
 Rupeek,"Bengaluru,Non-U.S.",180.0,6/7/2022,15%,Finance,https://www.moneycontrol.com/news/business/startup/gold-loan-platform-rupeek-lays-off-over-180-of-its-employees-8653571.html,Unknown,$172,India,6/7/2022
@@ -1297,7 +1297,7 @@ Ahead,SF Bay Area,44.0,4/14/2022,100%,Healthcare,https://www.bloomberg.com/news/
 Rad Power Bikes,Seattle,100.0,4/12/2022,14%,Transportation,https://www.geekwire.com/2022/rad-power-bikes-lays-off-100-employees-about-14-of-staff-after-raising-304m-last-year/,Series D,$329,United States,5/5/2022
 Food52,New York City,20.0,4/8/2022,10%,Food,https://www.businessinsider.com/food52-layoffs-employees-shocked-chernin-group-investment-2022-4,Acquired,$176,United States,5/7/2022
 Unacademy,"Bengaluru,Non-U.S.",1000.0,4/7/2022,17%,Education,https://economictimes.indiatimes.com/tech/startups/unacademy-lays-off-around-1000-employees-as-edtech-major-begins-a-massive-cost-cutting-exercise/articleshow/90703708.cms,Series H,$838,India,4/7/2022
-BitMEX,Non-U.S.,75.0,4/4/2022,25%,Crypto,https://www.theblockcrypto.com/post/140412/bitmex-lays-off-75-employees-after-bank-acquisition-collapses,Seed,$0,Seychelles,4/5/2022
+BitMEX,"Providence Mahé,Non-U.S.",75.0,4/4/2022,25%,Crypto,https://www.theblockcrypto.com/post/140412/bitmex-lays-off-75-employees-after-bank-acquisition-collapses,Seed,$0,Seychelles,4/5/2022
 Legible,"Vancouver,Non-U.S.",23.0,4/4/2022,38%,Media,https://betakit.com/in-effort-to-cut-costs-cse-listed-legible-lays-off-over-a-third-of-its-employees/,Post-IPO,$3,Canada,4/15/2022
 Rasa,"Berlin,Non-U.S.",59.0,3/30/2022,40%,Data,https://www.businessinsider.de/gruenderszene/business/exklusiv-massenentlassungen-rasa-andreessen-horowitz-ki/,Series B,$40,Germany,3/30/2022
 Gopuff,Philadelphia,450.0,3/29/2022,3%,Food,https://www.theinformation.com/articles/gopuff-plans-hundreds-of-layoffs-to-cut-40-million-in-costs,Series H,$3400,United States,3/30/2022
