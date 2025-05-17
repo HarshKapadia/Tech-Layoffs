@@ -1,7 +1,7 @@
 company,industry,location,country,LayOffDay,LayOffMonth,LayOffYear,total_laid_off,percentage_laid_off,funds_raised,stage,source
 CrowdStrike,Security,SF Bay Area,United States,7,5,2025,500,0.05,1200.0,Post-IPO,https://www.wsj.com/business/crowdstrike-to-cut-5-of-workforce-8eda42ed?st=dVSJCS&reflink=desktopwebshare_permalink
 GenWise,Other,New Delhi,India,5,5,2025,15,0.2,3.0,Seed,https://entrackr.com/exclusive/exclusive-z47-backed-genwise-lays-off-20-of-workforce-9036952
-Deep Instinct,Security,Tel Aviv,Israel,4,5,2025,20,0.1,322.0,Private Equity,https://www.calcalistech.com/ctechnews/article/bjfqkgbglx
+Deep Instinct,Security,Tel Aviv,Israel,4,5,2025,20,0.1,322.0,Unknown,https://www.calcalistech.com/ctechnews/article/bjfqkgbglx
 SambaNova,AI,SF Bay Area,United States,25,4,2025,77,0.15,1100.0,Series D,https://www.eetimes.com/sambanova-lays-off-15-of-workforce-to-refocus-on-inference/
 Intel,Hardware,Sacramento,United States,23,4,2025,22000,0.2,12.0,Post-IPO,https://www.bloomberg.com/news/articles/2025-04-23/intel-to-announce-plans-this-week-to-cut-more-than-20-of-staff?srnd=homepage-americas
 Turo,Transportation,SF Bay Area,United States,16,4,2025,150,0.17,467.0,Series E,https://www.bloomberg.com/news/articles/2025-04-16/car-rental-startup-turo-cuts-15-of-workers-after-icing-ipo
@@ -1297,7 +1297,7 @@ Ahead,Healthcare,SF Bay Area,United States,14,4,2022,44,1.0,9.0,Unknown,https://
 Rad Power Bikes,Transportation,Seattle,United States,12,4,2022,100,0.14,329.0,Series D,https://www.geekwire.com/2022/rad-power-bikes-lays-off-100-employees-about-14-of-staff-after-raising-304m-last-year/
 Food52,Food,New York City,United States,8,4,2022,20,0.1,176.0,Acquired,https://www.businessinsider.com/food52-layoffs-employees-shocked-chernin-group-investment-2022-4
 Unacademy,Education,Bengaluru,India,7,4,2022,1000,0.17,838.0,Series H,https://economictimes.indiatimes.com/tech/startups/unacademy-lays-off-around-1000-employees-as-edtech-major-begins-a-massive-cost-cutting-exercise/articleshow/90703708.cms
-BitMEX,Crypto,Providence Mahé,Seychelles,4,4,2022,75,0.25,0.0,Seed,https://www.theblockcrypto.com/post/140412/bitmex-lays-off-75-employees-after-bank-acquisition-collapses
+BitMEX,Crypto,Non-U.S.,Seychelles,4,4,2022,75,0.25,0.0,Seed,https://www.theblockcrypto.com/post/140412/bitmex-lays-off-75-employees-after-bank-acquisition-collapses
 Legible,Media,Vancouver,Canada,4,4,2022,23,0.38,3.0,Post-IPO,https://betakit.com/in-effort-to-cut-costs-cse-listed-legible-lays-off-over-a-third-of-its-employees/
 Rasa,Data,Berlin,Germany,30,3,2022,59,0.4,40.0,Series B,https://www.businessinsider.de/gruenderszene/business/exklusiv-massenentlassungen-rasa-andreessen-horowitz-ki/
 Gopuff,Food,Philadelphia,United States,29,3,2022,450,0.03,3400.0,Series H,https://www.theinformation.com/articles/gopuff-plans-hundreds-of-layoffs-to-cut-40-million-in-costs
